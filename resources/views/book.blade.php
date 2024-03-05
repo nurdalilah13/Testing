@@ -14,8 +14,6 @@
             <label for="author">Author:</label>
             <input type="text" name="author" class="form-control" required>
         </div>
-        
-
         <button type="submit" class="btn btn-primary">Add Book</button>
     </form>
     <table>
